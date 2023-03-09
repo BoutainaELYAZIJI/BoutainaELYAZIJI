@@ -24,7 +24,7 @@ I am a Computer and Data science student at INSEA. C, C++, Python, Java are the 
 
 <br/>
 
-<img align="left" height="400px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<img align="left" height="450px" width="350px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -65,7 +65,7 @@ I am a Computer and Data science student at INSEA. C, C++, Python, Java are the 
 
 
 #
-<dd>
+
  <code><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"></code>
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"></code>
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></code>
