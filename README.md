@@ -63,6 +63,7 @@ I am a Computer and Data science student at INSEA. C, C++, Python, Java are the 
 <code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
 <code><img height="30" width="70"  src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></code>
 <code><img height="35" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png"></code>
+
 <code><img height="30" width="70"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 
 #
