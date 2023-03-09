@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, Boutaina here. 
 
 <!--
 **BoutainaELYAZIJI/BoutainaELYAZIJI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,10 +24,10 @@ I am a Computer and Data science student at INSEA. C, C++, Python, Java are the 
 
 <br/>
 
-<img align="left" height="450" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<img align="left" height="400" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 
-***𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:***
+## ***Languages and Tools:***
 
 <br/>
 <br/>
@@ -47,7 +47,9 @@ I am a Computer and Data science student at INSEA. C, C++, Python, Java are the 
 <code><img height="35" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png"></code>
 <code><img height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png"></code>
-
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></code>
 
 
 #
@@ -63,11 +65,49 @@ I am a Computer and Data science student at INSEA. C, C++, Python, Java are the 
 <code><img height="35" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png"></code>
 <code><img height="30" width="70"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 
+#
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BoutainaELYAZIJI&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoutainaELYAZIJI&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br/>
+
+## <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="35px">&nbsp;**Connect With Me**
+
+
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/boutaina-elyaziji-678681184/" target="_blank">
+    <code><img height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></code>
+  </a>
+ <a href="belyaziji@insea.ac.ma" target="_blank">
+    <code><img height="60" width="60" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg"/></code>
+  </a>
+</p>
+<br/>
+
+
+
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
 
 #
 
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></code>
+![footer](https://raw.githubusercontent.com/BoutainaELYAZIJI/BoutainaELYAZIJI/main/footer.webp)
 
+-----
+**Credits**: [BoutainaELYAZIJI](https://github.com/BoutainaELYAZIJI)
+
+**Last Edited on**: 09/03/2023
 
