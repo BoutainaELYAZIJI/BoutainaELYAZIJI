@@ -11,12 +11,18 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Computer and Data science student at INSEA. C, C++, Python, Java are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web development,Machine Learning ,Deep Learning and Computer vision**
-- 🌱 I’m currently learning ...
-  - Machine Learning  
-  - Data engineering
-- 👯 I’m looking forward to collaborate on open source projects.
+ I’m a passionate **AI Engineer**, **Researcher**, and **Data Scientist**. C, C++, Python, Java are the programming languages I am good at.
+* **I specialize in Computer Vision, Machine Learning, Deep Learning, and Web Development.**
+
+## 💼 Currently Exploring
+- Advanced Machine Learning & Deep Learning architectures
+- Scalable Data Engineering pipelines
+- Retrieval-Augmented Generation (RAG) and Generative AI techniques
+
+## 🤝 Open to
+- Collaborating on open-source and research projects
+- Joining dynamic teams that value innovation and impact
+
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read Books, 🖌️ drawing and skecthing, 🎵 listen to music and🌴 traveling.
 - 📫 Reach out to me at: <a href="belyaziji@insea.ac.ma">belyaziji@insea.ac.ma</a>
