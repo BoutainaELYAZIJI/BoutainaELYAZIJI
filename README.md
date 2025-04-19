@@ -16,8 +16,7 @@
 
 ## 💼 Currently Exploring
 - Advanced Machine Learning & Deep Learning architectures
-- Scalable Data Engineering pipelines
-- Retrieval-Augmented Generation (RAG) and Generative AI techniques
+- Generative AI techniques
 
 ## 🤝 Open to
 - Collaborating on open-source and research projects
